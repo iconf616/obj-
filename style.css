@@ -1,0 +1,19 @@
+body{
+   background-position: center;
+   background-size: cover;
+}
+
+.header{
+    font-family: 'Caveat', cursive;
+    color:white;
+    font-size:70;
+}
+
+a{
+    color:white;
+    font-size:25px;
+    background-color: transparent;
+    border:3px white solid;
+    border-radius:100px;
+    margin-top: 15px;
+}
